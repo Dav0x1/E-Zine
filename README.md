@@ -1,1 +1,1 @@
-# E-Zine
+# E-Zine Demo
